@@ -1,4 +1,4 @@
-# Portfolio creation & management with machine learning methods for ticker selection
+# Portfolio creation & management with machine learning methods for ticker selections
 ---
 
 *In collaboration with :*
@@ -7,7 +7,7 @@
 
 This project is a part of a Quantitative Finance course (Panthéon Sorbonne).
 
-## Goal
+## Goals
 
 We have to create and manage 2 funds, with 2 strategies :
 1) Long Only in order to outperform the S&P500
