@@ -5,7 +5,7 @@
 - [Geri Leka](https://github.com/gerileka)
 - [Wenceslas Sanchez](https://github.com/Orlogskapten)
 
-This project is a part of an academic Quantitative Finance course.
+This project is a part of a Quantitative Finance course (Panthéon Sorbonne).
 
 ## Goal
 
@@ -18,4 +18,4 @@ You could find our results in ______.ipynb
 Also, you will get out prediction strategies into Model_test-Monthly-Function.ipynb, and the construction portfolio in construction_\*.ipynb.
 
 
-Best regards
+**Best regards.**
