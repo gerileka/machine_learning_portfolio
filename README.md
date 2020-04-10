@@ -1,9 +1,10 @@
 # Portfolio creation & management with machine learning methods for ticker selections
----
 
 *In collaboration with :*
 - [Geri Leka](https://github.com/gerileka)
 - [Wenceslas Sanchez](https://github.com/Orlogskapten)
+
+---
 
 This project is a part of a Quantitative Finance course (Panthéon Sorbonne).
 
