@@ -15,7 +15,7 @@ We have to create and manage 2 funds, with 2 strategies :
 
 You could find our results in ______.ipynb
 
-Also, you will get out prediction strategies into Model_test-Monthly-Function.ipynb, and the construction portfolio in construction_\*.ipynb.
+Also, you will get our prediction strategies into Model_test-Monthly-Function.ipynb, and the construction portfolio in  all files starting with construction_ .
 
 
 **Best regards.**
