@@ -15,7 +15,7 @@ The idea behind the project was the usage of ML prediction in portfolio construc
 We were given the task to create a portfolio given the equities and compare the results with a benchmark. The equities are US stocks categorized as ESG (aprox 50 tickers). The project will be separated in two main strategies, Long Only (LO) with the SPX as a benchmark and Long/Short benchmarked with Eonia +4%.
 
 
-You could find our results in ______.ipynb
+You could find our results in final_project.ipynb
 
 Also, you will get our prediction strategies into Model_test-Monthly-Function.ipynb, and the construction portfolio in  all files starting with construction_ .
 
