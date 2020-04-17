@@ -17,7 +17,5 @@ We were given the task to create a portfolio given the equities and compare the 
 
 You could find our results in final_project.ipynb
 
-Also, you will get our prediction strategies into Model_test-Monthly-Function.ipynb, and the construction portfolio in  all files starting with construction_ .
-
 
 **Best regards.**
