@@ -1,4 +1,4 @@
-# Portfolio creation & management with machine learning methods for ticker selections
+# Portfolio Construction using ML with backtesting results
 
 *In collaboration with :*
 - [Geri Leka](https://github.com/gerileka)
